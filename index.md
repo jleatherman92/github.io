@@ -6,7 +6,7 @@ title: Jaime Leatherman's CV
 ![Jaime](./media/jleathhs.png){:.avatar}
 
 #Jaime Leatherman
-Computer Science Student and Technology aficionado
+Aspiring Full Stack Javascript and Hybrid Mobile App Developer
 
 <div id="webaddress">
 <a href="mailto:">jleatherman92@gmail.com</a>
@@ -32,10 +32,12 @@ __Brooks Institute of Photography__ Bachelor's of Fine Arts in Professional Phot
 * Javascript
 
 ## Projects
+<a href="http://codepen.io/jleatherman92/pen/amPNEL">Change Calculator made with Ionic and Angular</a><br />
+<a href="http://codepen.io/jleatherman92/pen/zKrEga">Ascending Array made with Ionic and Angular</a><br />
 
 ### CV
 
-I created a this web page to show off my CV.  
+I created this web page to show off my CV.  
 
 ## Achievements
 
