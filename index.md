@@ -63,6 +63,7 @@ __Photographer and Portrait Consultant at Teddy Bear Portraits__
 * Photography
 * Hiking 
 * Watching Movies
+* Clogging
 
 ## Links
 
