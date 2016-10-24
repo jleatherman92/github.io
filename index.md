@@ -5,7 +5,7 @@ title: Jaime Leatherman's CV
 
 ![Jaime](./media/jleathhs.png){:.avatar}
 
-#Jaime Leatherman
+<strong>Jaime Leatherman</strong><br>
 Aspiring Full Stack Javascript and Hybrid Mobile App Developer
 
 <div id="webaddress">
