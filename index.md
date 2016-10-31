@@ -34,7 +34,7 @@ __Brooks Institute of Photography__ Bachelor's of Fine Arts in Professional Phot
 ## Projects
 <a href="http://codepen.io/jleatherman92/pen/amPNEL">Change Calculator made with Ionic and Angular</a><br />
 <a href="http://codepen.io/jleatherman92/pen/zKrEga">Ascending Array made with Ionic and Angular</a><br />
-
+<u>Thomas Killian Conflict Test:</u> Built an app which asks a user 30 questions that will inform them of their conflict resolution style.
 ### CV
 
 I created this web page to show off my CV.  
